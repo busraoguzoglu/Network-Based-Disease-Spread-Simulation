@@ -1,4 +1,4 @@
-# Cmpe556MtQ2
+# Disease Spread Simulation on a Simple Lattice Network
 Python code for disease spread simluation.
 
 In order to set up the network, I have used Python programming language and
